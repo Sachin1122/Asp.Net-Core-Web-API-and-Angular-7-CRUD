@@ -1,0 +1,16 @@
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\bin\Debug\netcoreapp2.2\webapp2.deps.json
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\bin\Debug\netcoreapp2.2\webapp2.runtimeconfig.json
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\bin\Debug\netcoreapp2.2\webapp2.runtimeconfig.dev.json
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\bin\Debug\netcoreapp2.2\webapp2.dll
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\obj\Debug\netcoreapp2.2\webapp2.csprojAssemblyReference.cache
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\obj\Debug\netcoreapp2.2\webapp2.RazorAssemblyInfo.cache
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\obj\Debug\netcoreapp2.2\webapp2.RazorAssemblyInfo.cs
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\obj\Debug\netcoreapp2.2\webapp2.AssemblyInfoInputs.cache
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\obj\Debug\netcoreapp2.2\webapp2.AssemblyInfo.cs
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\obj\Debug\netcoreapp2.2\webapp2.RazorTargetAssemblyInfo.cache
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\bin\Debug\netcoreapp2.2\webapp2.pdb
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\obj\Debug\netcoreapp2.2\webapp2.dll
+C:\Users\srai046\Desktop\Asp.netWebApp\webapp2\webapp2\obj\Debug\netcoreapp2.2\webapp2.pdb
